@@ -89,6 +89,6 @@ This project is for educational purposes only.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - Global Shark Attack File (GSAF) for providing the dataset.
